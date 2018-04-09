@@ -14,7 +14,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/bbszabi/yii2-widget-typeahead/" // Fork of kartik-v/yii2-widget-typeahead
+            "url": "https://github.com/bbszabi/yii2-widget-typeahead/"
         }
     ],
     "require": {
