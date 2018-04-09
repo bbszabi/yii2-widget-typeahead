@@ -390,7 +390,7 @@
             className: null,
             wordsOnly: false,
             caseSensitive: false,
-            diacriticInsensitive: false
+            diacriticInsensitive: true
         };
         var accented = {
             A: "[AaªÀ-Åà-åĀ-ąǍǎȀ-ȃȦȧᴬᵃḀḁẚẠ-ảₐ℀℁℻⒜Ⓐⓐ㍱-㍴㎀-㎄㎈㎉㎩-㎯㏂㏊㏟㏿Ａａ]",
