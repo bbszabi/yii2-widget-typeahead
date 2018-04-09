@@ -1336,7 +1336,7 @@
             tagName: "strong",
             className: null,
             wordsOnly: false,
-            caseSensitive: false,
+            caseSensitive: true,
             diacriticInsensitive: false
         };
         var accented = {
