@@ -1335,7 +1335,7 @@
             pattern: null,
             tagName: "strong",
             className: null,
-            wordsOnly: false,
+            wordsOnly: true,
             caseSensitive: false,
             diacriticInsensitive: true
         };
